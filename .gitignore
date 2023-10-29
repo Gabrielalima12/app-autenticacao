@@ -6,6 +6,7 @@
 
 # dependencies
 node_modules/
+FirebaseConfig.ts/
 
 # Expo
 .expo/
@@ -34,7 +35,7 @@ yarn-error.*
 
 # local env files
 .env*.local
-FirebaseConfig.ts
+
 
 # typescript
 *.tsbuildinfo
