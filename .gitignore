@@ -1,6 +1,8 @@
-app-autenticação/FirebaseConfig.js
+
 
 # Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
+
+
 
 # dependencies
 node_modules/
@@ -32,6 +34,7 @@ yarn-error.*
 
 # local env files
 .env*.local
+FirebaseConfig.ts
 
 # typescript
 *.tsbuildinfo
